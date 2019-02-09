@@ -1,0 +1,38 @@
+var ahmad =[{
+
+	"name": "DILAN -1990",
+	"descrip": " Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris  ",
+	"image": "img/9jvJd0zbN166hA3caTiTTQ61h6G.jpg"
+},
+{ 
+   "name": "LE-FIDELE 2017",
+	"descrip": " Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris  ",
+	"image": "img/le-fidele.20171013042007.jpg",
+},
+{
+
+    "name": "SPLASH 1984",
+	"descrip": " Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris  ",
+	"image": "img/Splash.jpg"
+
+ },
+ {
+    
+     "name": "TWILIGHT 2000",
+	"descrip": " Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris  ",
+	"image": "img/twilight poster 1.jpg"
+
+ },
+ {
+     "name": "BOOTH NOAH 2012",
+	"descrip": " Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ",
+	"image": "img/noah-poster-francia_mid.jpg"
+
+ },
+ {
+     "name": "TRANSPORT 2008",
+	"descrip": " Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris  ",
+	"image": "img/transporter31_large.jpg"
+
+ }
+];
